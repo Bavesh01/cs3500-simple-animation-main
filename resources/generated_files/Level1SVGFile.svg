@@ -1,0 +1,27 @@
+<svg width="500" height="400">
+  <rect id="p true" x="88" y="75" width="25" height="50" visibility="hidden" style="fill:rgb(149 39 191)">
+    <animate attributeName="visibility" begin="0s" dur="0.033333s" from="hidden" to="visible" fill="freeze" />
+    <animate attributeName="x" begin="0.03333333333333333s" dur="0.8s" fill="freeze" from="88" to="238" />
+    <animate attributeName="y" begin="0.03333333333333333s" dur="0.8s" fill="freeze" from="75" to="225" />
+    <animate attributeName="fill" begin="0.03333333333333333s" dur="0.8s" fill="freeze" from="rgb(149 39 191)" to="rgb(0 233 2)" />
+    <animate attributeName="width" begin="0.8333333333333334s" dur="0.8333333333333334s" fill="freeze" from="25" to="50" />
+    <animate attributeName="height" begin="0.8333333333333334s" dur="0.8333333333333334s" fill="freeze" from="50" to="100" />
+    <animate attributeName="x" begin="0.8333333333333334s" dur="0.8333333333333334s" fill="freeze" from="238" to="226" />
+    <animate attributeName="y" begin="0.8333333333333334s" dur="0.8333333333333334s" fill="freeze" from="225" to="200" />
+  </rect>
+  <rect id="p false" x="75" y="88" width="50" height="25" visibility="hidden" style="fill:rgb(149 39 191)">
+    <animate attributeName="visibility" begin="0s" dur="0.033333s" from="hidden" to="visible" fill="freeze" />
+    <animate attributeName="x" begin="0.03333333333333333s" dur="0.8s" fill="freeze" from="75" to="225" />
+    <animate attributeName="y" begin="0.03333333333333333s" dur="0.8s" fill="freeze" from="88" to="238" />
+    <animate attributeName="fill" begin="0.03333333333333333s" dur="0.8s" fill="freeze" from="rgb(149 39 191)" to="rgb(0 233 2)" />
+    <animate attributeName="width" begin="0.8333333333333334s" dur="0.8333333333333334s" fill="freeze" from="50" to="100" />
+    <animate attributeName="height" begin="0.8333333333333334s" dur="0.8333333333333334s" fill="freeze" from="25" to="50" />
+    <animate attributeName="x" begin="0.8333333333333334s" dur="0.8333333333333334s" fill="freeze" from="225" to="200" />
+    <animate attributeName="y" begin="0.8333333333333334s" dur="0.8333333333333334s" fill="freeze" from="238" to="226" />
+  </rect>
+  <rect id="r" x="415" y="116" width="83" height="284" visibility="hidden" style="fill:rgb(228 113 222)">
+    <animate attributeName="visibility" begin="0s" dur="0.033333s" from="hidden" to="visible" fill="freeze" />
+    <animate attributeName="x" begin="0.03333333333333333s" dur="0.06666666666666667s" fill="freeze" from="415" to="115" />
+    <animate attributeName="y" begin="0.03333333333333333s" dur="0.06666666666666667s" fill="freeze" from="116" to="116" />
+  </rect>
+</svg>
